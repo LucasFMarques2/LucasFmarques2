@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Lucas Freitas 👋
 
-<!--
-**LucasFMarques2/LucasFmarques2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I'm a Web Developer junior. And I'm studying full stack development at [RocketSeat](https://app.rocketseat.com.br/home).
 
-Here are some ideas to get you started:
+#### Current stack
+- Main language: `Javascript`
+- Backend: `Nodejs`
+- Frontend: `Reactjs`, `HTML5`, `CSS3`, `JAVASCRIPT`
+- Version conde contro: `Git & Github`
+- Tools: `Vscode`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contacts
+- Email: Lucasfreitasm3@hotmail.com
+- Linkedin: https://www.linkedin.com/in/lucas-freitas-marques-30a83b245/
