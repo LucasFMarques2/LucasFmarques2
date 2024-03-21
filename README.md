@@ -5,11 +5,14 @@ I'm a Web Developer junior. And I'm studying full stack development at [RocketSe
 
 #### Current stack
 - Main language: `Javascript`
+
+
+
 - Backend: `Nodejs`
 - Frontend: `Reactjs`, `HTML5`, `CSS3`, `JAVASCRIPT`
 - Version conde contro: `Git & Github`
 - Tools: `Vscode`
 
 #### Contacts
-- Email: Lucasfreitasm3@hotmail.com
+- 📧 Email: Lucasfreitasm3@hotmail.com
 - Linkedin: https://www.linkedin.com/in/lucas-freitas-marques-30a83b245/
