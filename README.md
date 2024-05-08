@@ -16,8 +16,7 @@ Este projeto consiste em uma landing page da DNC (Digital Nomad College) que apr
 
 ## Como Executar
 
-acesse o Link: [site]([https://www.dnc.com]([https://www.linkedin.com/in/lucas-freitas-marques-30a83b245](https://projeto-dnc-lendingpage.netlify.app/)/)
-
+acesse o Link: [site](https://www.linkedin.com/in/lucas-freitas-marques-30a83b245](https://projeto-dnc-lendingpage.netlify.app/)
 ## Tecnologias Utilizadas
 
 - HTML5
