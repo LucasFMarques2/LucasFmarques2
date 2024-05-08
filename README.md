@@ -16,9 +16,7 @@ Este projeto consiste em uma landing page da DNC (Digital Nomad College) que apr
 
 ## Como Executar
 
-1. Clone este repositório em sua máquina local.
-2. Abra o arquivo `index.html` em seu navegador da web.
-3. Explore o carrossel de alunos e preencha o formulário de inscrição para ver a validação em ação.
+acesse o Link: [site]([https://www.dnc.com]([https://www.linkedin.com/in/lucas-freitas-marques-30a83b245](https://projeto-dnc-lendingpage.netlify.app/)/)
 
 ## Tecnologias Utilizadas
 
