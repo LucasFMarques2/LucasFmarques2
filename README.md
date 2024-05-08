@@ -1,30 +1,19 @@
-# DNC Landing Page - Carrossel Interativo
+### Hi there, I'm Lucas Freitas 👋
 
-Este projeto consiste em uma landing page da DNC (Digital Nomad College) que apresenta um carrossel de alunos e um formulário de inscrição em HTML, CSS e JavaScript.
+#### About
+I'm a Web Developer junior. And I'm studying full stack development at [RocketSeat](https://app.rocketseat.com.br/home).
 
-## Estrutura do Projeto
-
-- **index.html**: Contém a estrutura HTML da página, incluindo o carrossel de alunos e o formulário de inscrição.
-- **style.css**: Arquivo CSS para estilizar a página e o carrossel.
-- **script.js**: Arquivo JavaScript para adicionar interatividade ao carrossel.
-
-## Funcionalidades
-
-1. **Carrossel Interativo**: Os usuários podem navegar entre os perfis dos alunos clicando nas setas esquerda e direita.
-2. **Formulário de Inscrição**: Os visitantes podem preencher o formulário com nome, e-mail e telefone para se inscrever nos cursos da DNC.
-3. **Feedback Visual**: Feedback visual é fornecido ao usuário durante a interação com o carrossel e ao preencher o formulário.
-
-## Como Executar
-
-acesse o Link: [Página](https://projeto-dnc-lendingpage.netlify.app/)
-
-## Tecnologias Utilizadas
-
-- HTML5
-- CSS3
-- JavaScript
+#### Current stack
+- Main language: `Javascript`
 
 
-## Contato
 
-Para mais informações  [linkedin](https://www.linkedin.com/in/lucas-freitas-marques-30a83b245](https://projeto-dnc-lendingpage.netlify.app/) ou entre em contato pelo e-mail lucasfreitasm3@hotmail.com.
+- Backend: `Nodejs`
+- Frontend: `Reactjs`, `HTML5`, `CSS3`, `JAVASCRIPT`
+- Version conde contro: `Git & Github`
+- Tools: `Vscode`
+
+#### Contacts
+- 📧 Email: Lucasfreitasm3@hotmail.com
+- Linkedin: https://www.linkedin.com/in/lucas-freitas-marques-30a83b245/
+desse jeito, utilizando os caracteres especiais para fortificar as fontes
